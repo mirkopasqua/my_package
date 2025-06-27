@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:my_package/my_package.dart';
+import 'package:my_package_plus/my_package.dart';
 
 void main() {
   test('add returns the sum of two numbers', () {
