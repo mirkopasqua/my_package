@@ -1,4 +1,3 @@
-/// A very good flutter package
-library;
+library my_package;
 
-export 'src/my_package.dart';
+export 'src/my_package.dart' show add;
