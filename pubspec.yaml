@@ -2,7 +2,6 @@ name: my_package
 description: A very good flutter package
 repository: "https://github.com/mirkopasqua/my_package"
 version: 0.2.0+1
-publish_to: none
 
 environment:
   sdk: ^3.8.0
